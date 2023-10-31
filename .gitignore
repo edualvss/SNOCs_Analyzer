@@ -1,0 +1,11 @@
+
+*.o
+*.stash
+Makefile
+moc_MainWindow.cpp
+qrc_resources.cpp
+*.user
+*.plist
+SNOCsAnalyzer.app/Contents/MacOS/SNOCsAnalyzer
+SNOCsAnalyzer.app/Contents/PkgInfo
+ui_MainWindow.h
